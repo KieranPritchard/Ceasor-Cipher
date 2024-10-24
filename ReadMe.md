@@ -4,8 +4,7 @@
 
 This project is a Ceasor cipher, it encrypts messages based around a techique created by juilous ceasor used during his reign in the roman empire.
 
-The main reason for doing this is because, I became really invested in learning different areas of cyber security. as part of this, I did some reasearch into projects I can do in python when I came across this video on youtube:
-
+The main reason for doing this is because, I became really invested in learning different areas of cyber security. as part of this, I did some reasearch into projects I can do in python. Then I came across this video on youtube: []()
 
 Because I already had cryptography bouncing around my head for a while before watching this, I decided this was the project i will chose from the video above. 
 
@@ -15,6 +14,6 @@ My main and only challenge, was figuring out what I could do differently. why I 
 
 ## How to Use the Project
 
-## Tests
-
 ## Licenses
+
+License is located "doc" folder.
