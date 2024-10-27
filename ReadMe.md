@@ -1,5 +1,14 @@
 # Ceasor Cipher
 
+<div align="center">
+    <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/KieranPritchard/Ceasor-Cipher">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/KieranPritchard/Ceasor-Cipher">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/KieranPritchard/Ceasor-Cipher">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KieranPritchard/Ceasor-Cipher">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/KieranPritchard/Ceasor-Cipher">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KieranPritchard/Ceasor-Cipher">
+</div>
+
 ## Project Description
 
 This project is a Ceasor cipher, it encrypts messages based around a techique created by juilous ceasor used during his reign in the roman empire.
